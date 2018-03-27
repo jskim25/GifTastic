@@ -12,12 +12,8 @@ If there are any shows from your childhood that you want to add, simply type the
 
 Technologies Used:
 
-HTML
-
-CSS
-
-Javascript
-
-JQuery
-
-API
+HTML,
+CSS,
+Javascript,
+JQuery,
+API,
