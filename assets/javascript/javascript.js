@@ -1,12 +1,11 @@
 // WEEK 6 HOMEWORK - GIPHY API
 
 // create an array of gifs that will initially display on the page upon load
-var gifArray = ["happy", "sad", "excited"];
+var gifArray = ["Rugrats", "Doug", "Pokemon", "Animaniacs", "The Magic School Bus", "Duck Tales", "Hey Arnold", "Arthur", "The Simpsons", "Tom and Jerry"];
 
 function alertAddedGif() {
-    // YOUR CODE GOES HERE!!!
-    console.log(this);
-    console.log($(this).attr("data-name"));
+    // console.log(this);
+    // console.log($(this).attr("data-name"));
   };
 
 $(document).on("click", ".gif-button", function() {
@@ -87,7 +86,5 @@ $(document).on("click", ".searchedImage", function() {
     }
 });
 
-
 // Calling the renderButtons function to display the initial list of movies
 renderButtons();
-
