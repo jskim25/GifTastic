@@ -1,4 +1,4 @@
-# GifTastic
+# Giphy API
 Week 6 Homework
 
 This one's a bit of a throwback to the TV shows that I grew up watching as a kid. Using jQuery's ajax method, we call upon data from the GIPHY API and get it to display on the page.
